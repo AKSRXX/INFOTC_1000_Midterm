@@ -28,7 +28,7 @@ This is the repository for my midterm project.
 
 [*My Morals/Philosophy*](Page3-Morals.md)
 
-[*My Appreciation For Comics/Superheroes*]
+[*My Appreciation For Comics/Superheroes*](Page4-Appreciation.md)
 
-**My Hobbies**
+
 
