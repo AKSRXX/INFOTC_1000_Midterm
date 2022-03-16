@@ -22,13 +22,13 @@ This is the repository for my midterm project.
 
 ## Links to Pages of Interests to me
 
-[**Future Career**](Page1-FutureCareer.md)
+[*Future Career*](Page1-FutureCareer.md)
 
-[**Ideal Lifestyle**](Page2-IdealLifestyle.md)
+[*Ideal Lifestyle*](Page2-IdealLifestyle.md)
 
-**My Morals/Philosophy**
+[*My Morals/Philosophy*](Page3-Morals.md)
 
-**My Appreciation For Comics/Superheroes**
+[*My Appreciation For Comics/Superheroes*]
 
 **My Hobbies**
 
