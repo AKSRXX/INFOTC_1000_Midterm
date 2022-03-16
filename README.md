@@ -24,7 +24,7 @@ This is the repository for my midterm project.
 
 [**Future Career**](Page1-FutureCareer.md)
 
-**Ideal Lifestyle**
+[**Ideal Lifestyle**](Page2-IdealLifestyle.md)
 
 **My Morals/Philosophy**
 
