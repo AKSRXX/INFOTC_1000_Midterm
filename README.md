@@ -21,7 +21,8 @@ This is the repository for my midterm project.
 ![Respect](https://user-images.githubusercontent.com/97974825/158621483-50beeb12-4b9f-407b-bd4c-348442de390b.jpg)
 
 ## Links to Pages of Interests to me
-**Future Career**
+
+[**Future Career**](Page1-FutureCareer.md)
 
 **Ideal Lifestyle**
 
