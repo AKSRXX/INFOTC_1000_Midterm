@@ -28,4 +28,55 @@ I aim to be a contributing factor to a large company and eventually use that kno
 
 ![office](https://user-images.githubusercontent.com/97974825/158627439-ca2c00b4-5242-4ca6-bf6e-f12803103b06.jpg)
 
+## *My FIZZBUZZ Code Block*
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Fizz Buzz</title>
+<script>
+
+function fizzbuzz() {
+	var display = document.getElementById('display');
+    var fizzhold ="";
+	var displayHTML = "";
+	for (i = 1; i < 101; i++) {
+		if (i % 3 === 0 && i % 5 === 0)
+        {
+            console.log("FizzBuzz");
+            fizzhold ="FizzBuzz";
+        } 
+        else if (i % 5 === 0) 
+        {
+            console.log("buzz");
+            fizzhold ="Buzz";
+        } 
+        else if (i % 3 === 0) 
+        {
+            console.log("fizz");
+            fizzhold ="Fizz";
+        } 
+        else {
+            console.log(i);
+            fizzhold ="";
+        }
+	    displayHTML += "<p>" + i + ":" + fizzhold + "</p>";
+    }
+	display.innerHTML = displayHTML;
+}
+
+</script>
+
+</head>
+
+<body onload="fizzbuzz()">
+<div id="display">
+
+</div>
+</body>
+
+</html>
+```
 [**Return to Home**](README.md)
